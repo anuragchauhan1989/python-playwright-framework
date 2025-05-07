@@ -28,8 +28,6 @@ playwright install
 .\locators\xxx.py  # locators for UI Automation
 .\tests\test_xxx.py # Test cases for UI Automation
 .\autoReports\xxx # Testing Results/Reports
-.\playwright\ # For UI Automation -
-
 ```
 
 ## Usage
