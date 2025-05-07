@@ -1,0 +1,6 @@
+pytest
+playwright
+pytest-playwright
+pytest-playwright-visual
+allure-pytest==2.13.5
+allure-python-commons

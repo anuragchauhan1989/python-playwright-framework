@@ -1,0 +1,6 @@
+[32mINFO    [0m conftest:conftest.py:31 =======browser launched======
+[32mINFO    [0m tests.test_find_center_count_mathces:test_find_center_count_mathces.py:15 =====click on find a center option=====
+[32mINFO    [0m tests.test_find_center_count_mathces:test_find_center_count_mathces.py:37 
+ =====match the name on list with the name on pop up
+[32mINFO    [0m tests.test_find_center_count_mathces:test_find_center_count_mathces.py:41 
+ =====match the address on list  with the address on pop up

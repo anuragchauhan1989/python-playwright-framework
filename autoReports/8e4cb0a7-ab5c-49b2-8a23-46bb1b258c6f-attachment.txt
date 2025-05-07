@@ -1,0 +1,4 @@
+[32mINFO    [0m conftest:conftest.py:31 =======browser launched======
+[32mINFO    [0m tests.test_search_article:test_search_article.py:16 ====click on seach icon====
+[32mINFO    [0m tests.test_search_article:test_search_article.py:26 
+ =====match the typed search string with the first result string
